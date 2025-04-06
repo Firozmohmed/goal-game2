@@ -1,0 +1,8 @@
+/goal-game/
+  └── index.html
+  └── sounds/
+        ├── click.mp3
+        ├── boom.mp3
+        ├── win.mp3
+        └── success.mp3
+
