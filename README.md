@@ -198,5 +198,10 @@
       }
     });
   </script>
-</body>
+</body><!-- 🔊 Sound Effects -->
+<audio id="click-sound" src="sounds/click.mp3"></audio>
+<audio id="boom-sound" src="sounds/boom.mp3"></audio>
+<audio id="win-sound" src="sounds/win.mp3"></audio>
+<audio id="success-sound" src="sounds/success.mp3"></audio>
+
 </html>
